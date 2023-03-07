@@ -49,7 +49,7 @@ If a founding member of TSF is building or promoting alternative tools, librarie
 
 ## 6. Licensing and credits
 
-The TSF decides the licensing requirements for the software published on its behalf by consensus. The TSF prefers permissive licenses, by default using Apache 2.0 for software and CC-BY-SA 4.0 for documentation in order to encourage adoption of its software in commercial and non-commercial settings. The choice of license in some cases may differ and must be decided by consensus.
+The TSF decides the licensing requirements for the software published on its behalf by consensus. The TSF prefers permissive licenses, by default using MIT for software and CC-BY-SA 4.0 for documentation in order to encourage adoption of its software in commercial and non-commercial settings.  All private and corporate contributors have to sign CLA. The choice of license in some cases may differ and must be decided by consensus.
 
 By default, individual contributions to the TSF are individually credited and protected by copyright. The generic string “Tact Community” can be added in the copyright clause with the agreement of original contributor and by consensus of the TSF.
 
