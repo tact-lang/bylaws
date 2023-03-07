@@ -2,7 +2,7 @@
 
 [📘 TSF Bylaws](foundation-bylaws.md)
 
-# Founding members
+### Founding members
 
 * [Oleg Andreev](https://github.com/oleganza)
 * [Steve Korshakov](https://github.com/ex3ndr)
